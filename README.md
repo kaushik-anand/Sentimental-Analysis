@@ -1,4 +1,4 @@
-# Nyaka Beauty Product Review Sentiment Analysis
+# Nykaa Beauty Product Review Sentiment Analysis
 
 ## Overview
 This project utilizes Natural Language Processing (NLP) techniques to perform sentiment analysis on customer reviews of Nyaka's beauty products. By employing a classifier and RandomForest algorithm, we aim to extract valuable insights regarding customer satisfaction and preferences towards Nyaka's products.
